@@ -1,15 +1,15 @@
-<template><div><h2 id="欢迎来到魔兽世界灯塔" tabindex="-1"><a class="header-anchor" href="#欢迎来到魔兽世界灯塔"><span>欢迎来到魔兽世界灯塔</span></a></h2>
-<p>在这里，你将找到：</p>
+<template><div><h2 id="welcome-to-world-of-warcraft-lighthouse" tabindex="-1"><a class="header-anchor" href="#welcome-to-world-of-warcraft-lighthouse"><span>Welcome to World of Warcraft Lighthouse</span></a></h2>
+<p>Here you will find:</p>
 <ul>
-<li><strong>副本攻略</strong> - 从5人地下城到团队副本的详细攻略</li>
-<li><strong>职业指南</strong> - 各职业天赋、技能、装备选择建议</li>
-<li><strong>任务流程</strong> - 重要任务链和成就的完整指南</li>
-<li><strong>专业技能</strong> - 采集和制造专业的收益最大化指南</li>
-<li><strong>PVP技巧</strong> - 竞技场和战场的高阶战术</li>
-<li><strong>坐骑宠物</strong> - 稀有坐骑和宠物的获取方法</li>
+<li><strong>Dungeon Guides</strong> - Detailed strategies from 5-man dungeons to raid encounters</li>
+<li><strong>Class Guides</strong> - Talent builds, skill rotations, and gear recommendations for all classes</li>
+<li><strong>Quest Walkthroughs</strong> - Complete guides for important quest chains and achievements</li>
+<li><strong>Profession Guides</strong> - Maximizing benefits from gathering and crafting professions</li>
+<li><strong>PVP Strategies</strong> - Advanced tactics for arenas and battlegrounds</li>
+<li><strong>Mount &amp; Pet Collections</strong> - Methods to obtain rare mounts and pets</li>
 </ul>
-<p>无论你是刚刚踏入艾泽拉斯的新手，还是寻求突破的资深玩家，这里都将是你可靠的伙伴。</p>
-<p><strong>愿圣光与你同在！</strong></p>
+<p>Whether you're a newcomer just stepping into Azeroth or a veteran seeking breakthroughs, this will be your reliable companion.</p>
+<p><strong>May the Light be with you!</strong></p>
 </div></template>
 
 

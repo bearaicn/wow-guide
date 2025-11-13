@@ -1,115 +1,115 @@
-<template><div><h1 id="新手指南" tabindex="-1"><a class="header-anchor" href="#新手指南"><span>新手指南</span></a></h1>
-<p>欢迎来到魔兽世界！无论你是第一次踏入艾泽拉斯的新冒险者，还是回归的老玩家，这份指南都将帮助你快速上手。</p>
-<h2 id="选择你的阵营" tabindex="-1"><a class="header-anchor" href="#选择你的阵营"><span>选择你的阵营</span></a></h2>
-<p>在开始冒险之前，你需要选择一个阵营：</p>
-<h3 id="联盟-alliance" tabindex="-1"><a class="header-anchor" href="#联盟-alliance"><span>联盟 (Alliance)</span></a></h3>
+<template><div><h1 id="beginner-s-guide" tabindex="-1"><a class="header-anchor" href="#beginner-s-guide"><span>Beginner's Guide</span></a></h1>
+<p>Welcome to World of Warcraft! Whether you're a new adventurer stepping into Azeroth for the first time or a returning veteran, this guide will help you get started quickly.</p>
+<h2 id="choose-your-faction" tabindex="-1"><a class="header-anchor" href="#choose-your-faction"><span>Choose Your Faction</span></a></h2>
+<p>Before beginning your adventure, you need to choose a faction:</p>
+<h3 id="alliance" tabindex="-1"><a class="header-anchor" href="#alliance"><span>Alliance</span></a></h3>
 <ul>
-<li><strong>种族</strong>: 人类、矮人、暗夜精灵、侏儒、德莱尼、狼人、虚空精灵、光铸德莱尼、黑铁矮人、库尔提拉斯人、机械侏儒</li>
-<li><strong>主城</strong>: 暴风城、铁炉堡、达纳苏斯</li>
-<li><strong>特点</strong>: 秩序、荣誉、正义</li>
+<li><strong>Races</strong>: Human, Dwarf, Night Elf, Gnome, Draenei, Worgen, Void Elf, Lightforged Draenei, Dark Iron Dwarf, Kul Tiran, Mechagnome</li>
+<li><strong>Main Cities</strong>: Stormwind, Ironforge, Darnassus</li>
+<li><strong>Characteristics</strong>: Order, Honor, Justice</li>
 </ul>
-<h3 id="部落-horde" tabindex="-1"><a class="header-anchor" href="#部落-horde"><span>部落 (Horde)</span></a></h3>
+<h3 id="horde" tabindex="-1"><a class="header-anchor" href="#horde"><span>Horde</span></a></h3>
 <ul>
-<li><strong>种族</strong>: 兽人、亡灵、牛头人、巨魔、血精灵、地精、熊猫人、夜之子、至高岭牛头人、玛格汉兽人、狐人</li>
-<li><strong>主城</strong>: 奥格瑞玛、雷霆崖、幽暗城</li>
-<li><strong>特点</strong>: 自由、团结、力量</li>
+<li><strong>Races</strong>: Orc, Undead, Tauren, Troll, Blood Elf, Goblin, Pandaren, Nightborne, Highmountain Tauren, Mag'har Orc, Vulpera</li>
+<li><strong>Main Cities</strong>: Orgrimmar, Thunder Bluff, Undercity</li>
+<li><strong>Characteristics</strong>: Freedom, Unity, Strength</li>
 </ul>
-<h2 id="选择你的职业" tabindex="-1"><a class="header-anchor" href="#选择你的职业"><span>选择你的职业</span></a></h2>
-<p>魔兽世界有12个职业可供选择，每个职业都有独特的玩法和定位：</p>
-<h3 id="坦克职业" tabindex="-1"><a class="header-anchor" href="#坦克职业"><span>坦克职业</span></a></h3>
+<h2 id="choose-your-class" tabindex="-1"><a class="header-anchor" href="#choose-your-class"><span>Choose Your Class</span></a></h2>
+<p>World of Warcraft offers 12 classes to choose from, each with unique gameplay and roles:</p>
+<h3 id="tank-classes" tabindex="-1"><a class="header-anchor" href="#tank-classes"><span>Tank Classes</span></a></h3>
 <ul>
-<li><strong>战士</strong> - 经典的板甲坦克，拥有强大的防御技能</li>
-<li><strong>圣骑士</strong> - 神圣的守护者，能够治疗自己和队友</li>
-<li><strong>死亡骑士</strong> - 使用黑暗力量的坚韧坦克</li>
-<li><strong>德鲁伊</strong> - 变身为熊形态的灵活坦克</li>
-<li><strong>武僧</strong> - 运用气功的敏捷坦克</li>
-<li><strong>恶魔猎手</strong> - 高机动性的复仇专精</li>
+<li><strong>Warrior</strong> - Classic plate-wearing tank with powerful defensive abilities</li>
+<li><strong>Paladin</strong> - Holy guardian capable of healing themselves and allies</li>
+<li><strong>Death Knight</strong> - Resilient tank using dark powers</li>
+<li><strong>Druid</strong> - Flexible tank shapeshifting into bear form</li>
+<li><strong>Monk</strong> - Agile tank using martial arts</li>
+<li><strong>Demon Hunter</strong> - Highly mobile vengeance specialization</li>
 </ul>
-<h3 id="治疗职业" tabindex="-1"><a class="header-anchor" href="#治疗职业"><span>治疗职业</span></a></h3>
+<h3 id="healing-classes" tabindex="-1"><a class="header-anchor" href="#healing-classes"><span>Healing Classes</span></a></h3>
 <ul>
-<li><strong>牧师</strong> - 强大的神圣治疗者</li>
-<li><strong>圣骑士</strong> - 近战治疗者，能够承受伤害</li>
-<li><strong>萨满</strong> - 元素之力的恢复者</li>
-<li><strong>德鲁伊</strong> - 持续治疗和复活能力</li>
-<li><strong>武僧</strong> - 通过迷雾治疗队友</li>
+<li><strong>Priest</strong> - Powerful holy healer</li>
+<li><strong>Paladin</strong> - Melee healer capable of taking damage</li>
+<li><strong>Shaman</strong> - Restorer using elemental powers</li>
+<li><strong>Druid</strong> - Sustained healing and resurrection abilities</li>
+<li><strong>Monk</strong> - Healing allies through mists</li>
 </ul>
-<h3 id="输出职业" tabindex="-1"><a class="header-anchor" href="#输出职业"><span>输出职业</span></a></h3>
+<h3 id="damage-classes" tabindex="-1"><a class="header-anchor" href="#damage-classes"><span>Damage Classes</span></a></h3>
 <ul>
-<li>所有职业都有输出专精，包括法师、术士、猎人、盗贼等</li>
+<li>All classes have damage specializations, including Mage, Warlock, Hunter, Rogue, etc.</li>
 </ul>
-<h2 id="游戏基础" tabindex="-1"><a class="header-anchor" href="#游戏基础"><span>游戏基础</span></a></h2>
-<h3 id="等级系统" tabindex="-1"><a class="header-anchor" href="#等级系统"><span>等级系统</span></a></h3>
+<h2 id="game-basics" tabindex="-1"><a class="header-anchor" href="#game-basics"><span>Game Basics</span></a></h2>
+<h3 id="level-system" tabindex="-1"><a class="header-anchor" href="#level-system"><span>Level System</span></a></h3>
 <ul>
-<li>当前最高等级为70级</li>
-<li>1-60级：艾泽拉斯冒险</li>
-<li>60-70级：巨龙时代内容</li>
+<li>Current maximum level: 70</li>
+<li>Levels 1-60: Azeroth Adventure</li>
+<li>Levels 60-70: Dragonflight content</li>
 </ul>
-<h3 id="装备品质" tabindex="-1"><a class="header-anchor" href="#装备品质"><span>装备品质</span></a></h3>
+<h3 id="item-quality" tabindex="-1"><a class="header-anchor" href="#item-quality"><span>Item Quality</span></a></h3>
 <ul>
-<li><strong>灰色</strong> - 普通物品</li>
-<li><strong>白色</strong> - 普通装备</li>
-<li><strong>绿色</strong> - 优秀装备</li>
-<li><strong>蓝色</strong> - 精良装备</li>
-<li><strong>紫色</strong> - 史诗装备</li>
-<li><strong>橙色</strong> - 传说装备</li>
+<li><strong>Gray</strong> - Common items</li>
+<li><strong>White</strong> - Common equipment</li>
+<li><strong>Green</strong> - Uncommon equipment</li>
+<li><strong>Blue</strong> - Rare equipment</li>
+<li><strong>Purple</strong> - Epic equipment</li>
+<li><strong>Orange</strong> - Legendary equipment</li>
 </ul>
-<h3 id="专业技能" tabindex="-1"><a class="header-anchor" href="#专业技能"><span>专业技能</span></a></h3>
+<h3 id="professions" tabindex="-1"><a class="header-anchor" href="#professions"><span>Professions</span></a></h3>
 <ul>
-<li><strong>采集专业</strong>: 草药学、采矿、剥皮</li>
-<li><strong>制造专业</strong>: 炼金术、锻造、附魔、工程学、制皮、裁缝、珠宝加工</li>
+<li><strong>Gathering Professions</strong>: Herbalism, Mining, Skinning</li>
+<li><strong>Crafting Professions</strong>: Alchemy, Blacksmithing, Enchanting, Engineering, Leatherworking, Tailoring, Jewelcrafting</li>
 </ul>
-<h2 id="开始你的冒险" tabindex="-1"><a class="header-anchor" href="#开始你的冒险"><span>开始你的冒险</span></a></h2>
-<h3 id="第一步-创建角色" tabindex="-1"><a class="header-anchor" href="#第一步-创建角色"><span>第一步：创建角色</span></a></h3>
+<h2 id="start-your-adventure" tabindex="-1"><a class="header-anchor" href="#start-your-adventure"><span>Start Your Adventure</span></a></h2>
+<h3 id="step-1-create-your-character" tabindex="-1"><a class="header-anchor" href="#step-1-create-your-character"><span>Step 1: Create Your Character</span></a></h3>
 <ol>
-<li>选择阵营和种族</li>
-<li>选择职业</li>
-<li>自定义角色外观</li>
-<li>选择起始区域</li>
+<li>Choose faction and race</li>
+<li>Select class</li>
+<li>Customize character appearance</li>
+<li>Choose starting zone</li>
 </ol>
-<h3 id="第二步-学习基础操作" tabindex="-1"><a class="header-anchor" href="#第二步-学习基础操作"><span>第二步：学习基础操作</span></a></h3>
+<h3 id="step-2-learn-basic-controls" tabindex="-1"><a class="header-anchor" href="#step-2-learn-basic-controls"><span>Step 2: Learn Basic Controls</span></a></h3>
 <ul>
-<li><strong>移动</strong>: WASD 或方向键</li>
-<li><strong>攻击</strong>: 技能栏上的技能</li>
-<li><strong>互动</strong>: 鼠标右键</li>
-<li><strong>拾取</strong>: 鼠标左键</li>
+<li><strong>Movement</strong>: WASD or arrow keys</li>
+<li><strong>Attack</strong>: Skills on action bars</li>
+<li><strong>Interact</strong>: Right mouse button</li>
+<li><strong>Loot</strong>: Left mouse button</li>
 </ul>
-<h3 id="第三步-完成任务" tabindex="-1"><a class="header-anchor" href="#第三步-完成任务"><span>第三步：完成任务</span></a></h3>
+<h3 id="step-3-complete-quests" tabindex="-1"><a class="header-anchor" href="#step-3-complete-quests"><span>Step 3: Complete Quests</span></a></h3>
 <ul>
-<li>黄色感叹号表示可接任务</li>
-<li>黄色问号表示可交任务</li>
-<li>跟随任务线推进剧情</li>
+<li>Yellow exclamation marks indicate available quests</li>
+<li>Yellow question marks indicate quest turn-ins</li>
+<li>Follow quest lines to progress the story</li>
 </ul>
-<h2 id="进阶指南" tabindex="-1"><a class="header-anchor" href="#进阶指南"><span>进阶指南</span></a></h2>
-<h3 id="副本系统" tabindex="-1"><a class="header-anchor" href="#副本系统"><span>副本系统</span></a></h3>
+<h2 id="advanced-guide" tabindex="-1"><a class="header-anchor" href="#advanced-guide"><span>Advanced Guide</span></a></h2>
+<h3 id="dungeon-system" tabindex="-1"><a class="header-anchor" href="#dungeon-system"><span>Dungeon System</span></a></h3>
 <ul>
-<li><strong>地下城</strong>: 5人小队内容</li>
-<li><strong>团队副本</strong>: 10-30人大型内容</li>
-<li><strong>英雄难度</strong>: 更具挑战性的版本</li>
-<li><strong>史诗难度</strong>: 最高难度的挑战</li>
+<li><strong>Dungeons</strong>: 5-player group content</li>
+<li><strong>Raids</strong>: 10-30 player large-scale content</li>
+<li><strong>Heroic Difficulty</strong>: More challenging versions</li>
+<li><strong>Mythic Difficulty</strong>: Highest difficulty challenges</li>
 </ul>
-<h3 id="pvp内容" tabindex="-1"><a class="header-anchor" href="#pvp内容"><span>PVP内容</span></a></h3>
+<h3 id="pvp-content" tabindex="-1"><a class="header-anchor" href="#pvp-content"><span>PVP Content</span></a></h3>
 <ul>
-<li><strong>战场</strong>: 团队对战模式</li>
-<li><strong>竞技场</strong>: 2v2、3v3、5v5对战</li>
-<li><strong>世界PVP</strong>: 野外阵营对抗</li>
+<li><strong>Battlegrounds</strong>: Team-based combat modes</li>
+<li><strong>Arenas</strong>: 2v2, 3v3, 5v5 matches</li>
+<li><strong>World PVP</strong>: Faction conflicts in open world</li>
 </ul>
-<h2 id="实用技巧" tabindex="-1"><a class="header-anchor" href="#实用技巧"><span>实用技巧</span></a></h2>
+<h2 id="useful-tips" tabindex="-1"><a class="header-anchor" href="#useful-tips"><span>Useful Tips</span></a></h2>
 <ol>
-<li><strong>绑定炉石</strong> - 在旅店设置你的回家点</li>
-<li><strong>学习飞行</strong> - 在相应等级学习飞行技能</li>
-<li><strong>加入公会</strong> - 找到志同道合的伙伴</li>
-<li><strong>使用拍卖行</strong> - 买卖物品和材料</li>
-<li><strong>探索世界</strong> - 发现隐藏的宝藏和任务</li>
+<li><strong>Bind Your Hearthstone</strong> - Set your home location at inns</li>
+<li><strong>Learn Flying</strong> - Acquire flying skills at appropriate levels</li>
+<li><strong>Join a Guild</strong> - Find like-minded companions</li>
+<li><strong>Use Auction House</strong> - Buy and sell items and materials</li>
+<li><strong>Explore the World</strong> - Discover hidden treasures and quests</li>
 </ol>
-<h2 id="寻求帮助" tabindex="-1"><a class="header-anchor" href="#寻求帮助"><span>寻求帮助</span></a></h2>
-<p>如果你在游戏中遇到困难：</p>
+<h2 id="getting-help" tabindex="-1"><a class="header-anchor" href="#getting-help"><span>Getting Help</span></a></h2>
+<p>If you encounter difficulties in the game:</p>
 <ul>
-<li>查看本站的其他攻略</li>
-<li>在游戏中询问其他玩家</li>
-<li>加入魔兽世界社区</li>
-<li>查看官方论坛和指南</li>
+<li>Check other guides on this site</li>
+<li>Ask other players in the game</li>
+<li>Join World of Warcraft communities</li>
+<li>Check official forums and guides</li>
 </ul>
-<p><strong>记住：魔兽世界是一个充满无限可能的广阔世界，享受你的冒险旅程吧！</strong></p>
+<p><strong>Remember: World of Warcraft is a vast world full of endless possibilities - enjoy your adventure!</strong></p>
 </div></template>
 
 
