@@ -1,36 +1,57 @@
-# 魔兽世界灯塔
+# World of Warcraft Lighthouse
 
-#### Description
-迷途时的指南针，困顿时的避风港。魔兽世界灯塔，致力于化解你在艾泽拉斯遇到的每一个小麻烦，让每一次探索都充满温暖与乐趣。
+#### Project Description
 
-#### Software Architecture
-Software architecture description
+Lighting the beacon in the mist, guiding your journey through Azeroth.
 
-#### Installation
+World of Warcraft Lighthouse is a knowledge-sharing website built with VuePress, dedicated to providing comprehensive and practical game guides and strategies for World of Warcraft players. Whether you're a new adventurer or a veteran player, you'll find valuable assistance here.
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Technical Architecture
 
-#### Instructions
+- **Frontend Framework**: VuePress 2.0
+- **Build Tool**: Vite
+- **Development Language**: Vue 3 + TypeScript
+- **CSS Preprocessor**: Sass
+- **Package Manager**: pnpm
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### Quick Start
 
-#### Contribution
+1. **Install Dependencies**
+   ```bash
+   pnpm install
+   ```
 
-1.  Fork the repository
-2.  Create Feat_xxx branch
-3.  Commit your code
-4.  Create Pull Request
+2. **Local Development**
+   ```bash
+   pnpm docs:dev
+   ```
 
+3. **Build for Production**
+   ```bash
+   pnpm docs:build
+   ```
 
-#### Gitee Feature
+#### Project Structure
 
-1.  You can use Readme\_XXX.md to support different languages, such as Readme\_en.md, Readme\_zh.md
-2.  Gitee blog [blog.gitee.com](https://blog.gitee.com)
-3.  Explore open source project [https://gitee.com/explore](https://gitee.com/explore)
-4.  The most valuable open source project [GVP](https://gitee.com/gvp)
-5.  The manual of Gitee [https://gitee.com/help](https://gitee.com/help)
-6.  The most popular members  [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+```
+bearai-wow/
+├── docs/                 # Documentation directory
+│   ├── README.md        # Homepage content
+│   └── get-started.md   # Getting started guide
+├── package.json         # Project configuration
+└── README.md           # Project description
+```
+
+#### Contributing
+
+We welcome all passionate World of Warcraft players to contribute!
+
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Create a Pull Request
+
+#### License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.

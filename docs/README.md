@@ -1,33 +1,45 @@
 ---
 home: true
-title: Home
-heroImage: https://vuejs.press/images/hero.png
+title: 首页
+heroImage: /images/wow.svg
+tagline: 点亮迷雾中的灯塔，为你指引艾泽拉斯的征途
 actions:
-  - text: Get Started
+  - text: 开始探索
     link: /get-started.html
     type: primary
 
-  - text: Introduction
-    link: https://vuejs.press/guide/introduction.html
+  - text: 查看攻略
+    link: /guides/
     type: secondary
 
 features:
-  - title: Simplicity First
-    details: Minimal setup with markdown-centered project structure helps you focus on writing.
-  - title: Vue-Powered
-    details: Enjoy the dev experience of Vue, use Vue components in markdown, and develop custom themes with Vue.
-  - title: Performant
-    details: VuePress generates pre-rendered static HTML for each page, and runs as an SPA once a page is loaded.
-  - title: Themes
-    details: Providing a default theme out of the box. You can also choose a community theme or create your own one.
-  - title: Plugins
-    details: Flexible plugin API, allowing plugins to provide lots of plug-and-play features for your site.
-  - title: Bundlers
-    details: Default bundler is Vite, while Webpack is also supported. Choose the one you like!
+  - title: 全面攻略
+    details: 涵盖副本攻略、职业指南、任务流程等全方位游戏内容，助你轻松应对各种挑战。
+  - title: 实时更新
+    details: 紧跟游戏版本更新，确保所有攻略和指南都基于最新的游戏机制和数据。
+  - title: 社区驱动
+    details: 由资深玩家共同维护，汇聚集体智慧，分享最实用的游戏经验。
+  - title: 新手友好
+    details: 从基础操作到高级技巧，为不同水平的玩家提供合适的学习路径。
+  - title: 多职业覆盖
+    details: 包含所有职业的详细指南，帮助你找到最适合自己的游戏方式。
+  - title: 跨版本兼容
+    details: 同时支持经典旧世和正式服版本，满足不同玩家的需求。
 
-footer: MIT Licensed | Copyright © 2018-present VuePress Community
+footer: 为了艾泽拉斯 | 魔兽世界灯塔 © 2024
 ---
 
-This is the content of home page. Check [Home Page Docs][default-theme-home] for more details.
+## 欢迎来到魔兽世界灯塔
 
-[default-theme-home]: https://vuejs.press/reference/default-theme/frontmatter.html#home-page
+在这里，你将找到：
+
+- **副本攻略** - 从5人地下城到团队副本的详细攻略
+- **职业指南** - 各职业天赋、技能、装备选择建议
+- **任务流程** - 重要任务链和成就的完整指南
+- **专业技能** - 采集和制造专业的收益最大化指南
+- **PVP技巧** - 竞技场和战场的高阶战术
+- **坐骑宠物** - 稀有坐骑和宠物的获取方法
+
+无论你是刚刚踏入艾泽拉斯的新手，还是寻求突破的资深玩家，这里都将是你可靠的伙伴。
+
+**愿圣光与你同在！**

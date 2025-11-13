@@ -1,46 +1,108 @@
-# Get Started
+# 新手指南
 
-This is a normal page, which contains VuePress basics.
+欢迎来到魔兽世界！无论你是第一次踏入艾泽拉斯的新冒险者，还是回归的老玩家，这份指南都将帮助你快速上手。
 
-## Pages
+## 选择你的阵营
 
-You can add markdown files in your vuepress directory, every markdown file will be converted to a page in your site.
+在开始冒险之前，你需要选择一个阵营：
 
-See [routing][] for more details.
+### 联盟 (Alliance)
+- **种族**: 人类、矮人、暗夜精灵、侏儒、德莱尼、狼人、虚空精灵、光铸德莱尼、黑铁矮人、库尔提拉斯人、机械侏儒
+- **主城**: 暴风城、铁炉堡、达纳苏斯
+- **特点**: 秩序、荣誉、正义
 
-## Content
+### 部落 (Horde)
+- **种族**: 兽人、亡灵、牛头人、巨魔、血精灵、地精、熊猫人、夜之子、至高岭牛头人、玛格汉兽人、狐人
+- **主城**: 奥格瑞玛、雷霆崖、幽暗城
+- **特点**: 自由、团结、力量
 
-Every markdown file [will be rendered to HTML, then converted to a Vue SFC][content].
+## 选择你的职业
 
-VuePress support basic markdown syntax and [some extensions][synatex-extensions], you can also [use Vue features][vue-feature] in it.
+魔兽世界有12个职业可供选择，每个职业都有独特的玩法和定位：
 
-## Configuration
+### 坦克职业
+- **战士** - 经典的板甲坦克，拥有强大的防御技能
+- **圣骑士** - 神圣的守护者，能够治疗自己和队友
+- **死亡骑士** - 使用黑暗力量的坚韧坦克
+- **德鲁伊** - 变身为熊形态的灵活坦克
+- **武僧** - 运用气功的敏捷坦克
+- **恶魔猎手** - 高机动性的复仇专精
 
-VuePress use a `.vuepress/config.js`(or .ts) file as [site configuration][config], you can use it to config your site.
+### 治疗职业
+- **牧师** - 强大的神圣治疗者
+- **圣骑士** - 近战治疗者，能够承受伤害
+- **萨满** - 元素之力的恢复者
+- **德鲁伊** - 持续治疗和复活能力
+- **武僧** - 通过迷雾治疗队友
 
-For [client side configuration][client-config], you can create `.vuepress/client.js`(or .ts).
+### 输出职业
+- 所有职业都有输出专精，包括法师、术士、猎人、盗贼等
 
-Meanwhile, you can also add configuration per page with [frontmatter][].
+## 游戏基础
 
-## Layouts and customization
+### 等级系统
+- 当前最高等级为70级
+- 1-60级：艾泽拉斯冒险
+- 60-70级：巨龙时代内容
 
-Here are common configuration controlling layout of `@vuepress/theme-default`:
+### 装备品质
+- **灰色** - 普通物品
+- **白色** - 普通装备
+- **绿色** - 优秀装备
+- **蓝色** - 精良装备
+- **紫色** - 史诗装备
+- **橙色** - 传说装备
 
-- [navbar][]
-- [sidebar][]
+### 专业技能
+- **采集专业**: 草药学、采矿、剥皮
+- **制造专业**: 炼金术、锻造、附魔、工程学、制皮、裁缝、珠宝加工
 
-Check [default theme docs][default-theme] for full reference.
+## 开始你的冒险
 
-You can [add extra style][style] with `.vuepress/styles/index.scss` file.
+### 第一步：创建角色
+1. 选择阵营和种族
+2. 选择职业
+3. 自定义角色外观
+4. 选择起始区域
 
-[routing]: https://vuejs.press/guide/page.html#routing
-[content]: https://vuejs.press/guide/page.html#content
-[synatex-extensions]: https://vuejs.press/guide/markdown.html#syntax-extensions
-[vue-feature]: https://vuejs.press/guide/markdown.html#using-vue-in-markdown
-[config]: https://vuejs.press/guide/configuration.html#client-config-file
-[client-config]: https://vuejs.press/guide/configuration.html#client-config-file
-[frontmatter]: https://vuejs.press/guide/page.html#frontmatter
-[navbar]: https://vuejs.press/reference/default-theme/config.html#navbar
-[sidebar]: https://vuejs.press/reference/default-theme/config.html#sidebar
-[default-theme]: https://vuejs.press/reference/default-theme/
-[style]: https://vuejs.press/reference/default-theme/styles.html#style-file
+### 第二步：学习基础操作
+- **移动**: WASD 或方向键
+- **攻击**: 技能栏上的技能
+- **互动**: 鼠标右键
+- **拾取**: 鼠标左键
+
+### 第三步：完成任务
+- 黄色感叹号表示可接任务
+- 黄色问号表示可交任务
+- 跟随任务线推进剧情
+
+## 进阶指南
+
+### 副本系统
+- **地下城**: 5人小队内容
+- **团队副本**: 10-30人大型内容
+- **英雄难度**: 更具挑战性的版本
+- **史诗难度**: 最高难度的挑战
+
+### PVP内容
+- **战场**: 团队对战模式
+- **竞技场**: 2v2、3v3、5v5对战
+- **世界PVP**: 野外阵营对抗
+
+## 实用技巧
+
+1. **绑定炉石** - 在旅店设置你的回家点
+2. **学习飞行** - 在相应等级学习飞行技能
+3. **加入公会** - 找到志同道合的伙伴
+4. **使用拍卖行** - 买卖物品和材料
+5. **探索世界** - 发现隐藏的宝藏和任务
+
+## 寻求帮助
+
+如果你在游戏中遇到困难：
+- 查看本站的其他攻略
+- 在游戏中询问其他玩家
+- 加入魔兽世界社区
+- 查看官方论坛和指南
+
+**记住：魔兽世界是一个充满无限可能的广阔世界，享受你的冒险旅程吧！**
