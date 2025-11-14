@@ -1,6 +1,7 @@
 import { defineUserConfig } from 'vuepress'
 import { defaultTheme } from '@vuepress/theme-default'
 import { viteBundler } from '@vuepress/bundler-vite'
+import { commentPlugin } from '@vuepress/plugin-comment'
 
 export default defineUserConfig({
   lang: 'zh-CN',
@@ -33,6 +34,14 @@ export default defineUserConfig({
     },
     navbar: ['/', '/get-started'],
   }),
-
+  plugins: [
+    commentPlugin({
+      provider: 'Artalk', // Artalk | Giscus | Waline | Twikoo
+      // 服务商配置
+      server: 'https://artalk.bearai.com.cn', // 您的 Artalk 服务地址
+      site: '魔兽世界灯塔',
+      darkMode: true,
+    }),
+  ],
   bundler: viteBundler(),
 })

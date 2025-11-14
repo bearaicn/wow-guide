@@ -110,6 +110,6 @@
 <li>查看官方论坛和指南</li>
 </ul>
 <p><strong>记住：魔兽世界是一个充满无限可能的广阔世界，享受你的冒险旅程吧！</strong></p>
-</div></template>
+<CommentService /></div></template>
 
 
