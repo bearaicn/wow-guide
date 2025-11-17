@@ -1,5 +1,5 @@
 <template>
-  <div class="comment-section">
+  <div class="comment-section" v-if="!env.isDev">
     <h3 class="simple-title">💬 留言板</h3>
     
     <CommentService :darkmode="isDarkMode" />
@@ -8,11 +8,13 @@
 
 <script setup lang="ts">
 import { defineComponent, ref, onMounted, onBeforeUnmount } from 'vue';
+import { useEnv } from '../composables/useEnv'
 
 defineComponent({
     name: 'CustomComment'
 });
 
+const env = useEnv()
 const isDarkMode = ref<Boolean>();
 
 let observer : MutationObserver
