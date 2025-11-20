@@ -1,6 +1,6 @@
 {
   "name": "bearai-wow",
-  "description": "点亮迷雾中的灯塔，为你指引艾泽拉斯的征途。",
+  "description": "点亮迷雾中的灯塔，为你指引艾泽拉斯的征途",
   "version": "0.0.1",
   "license": "MIT",
   "type": "module",

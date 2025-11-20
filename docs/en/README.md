@@ -14,32 +14,67 @@ actions:
 
 features:
   - title: Comprehensive Guides
-    details: Covering dungeon strategies, class guides, quest walkthroughs, and all aspects of gameplay to help you overcome any challenge.
+    details: Covering raid strategies, class guides, quest walkthroughs, and all-around game content to help you easily tackle various challenges.
+    image: /images/guide.svg
+    link: /en/guides/
   - title: Real-time Updates
-    details: Keeping up with game patches and expansions to ensure all guides are based on the latest game mechanics and data.
+    details: Keeping up with game version updates to ensure all guides and strategies are based on the latest game mechanics and data.
+    image: /images/update.svg
+    link: /en/updates/
   - title: Community Driven
-    details: Maintained by veteran players, pooling collective wisdom to share the most practical gaming experiences.
+    details: Maintained by veteran players, gathering collective wisdom and sharing the most practical gaming experiences.
+    image: /images/community.svg
+    link: /en/community/
   - title: Beginner Friendly
-    details: From basic operations to advanced techniques, providing suitable learning paths for players of all levels.
+    details: From basic operations to advanced techniques, providing suitable learning paths for players of different skill levels.
+    image: /images/beginner.svg
+    link: /en/beginner/
   - title: Multi-class Coverage
-    details: Detailed guides for all classes to help you find the gameplay style that suits you best.
-  - title: Cross-version Support
-    details: Supporting both Classic and Retail versions to meet the needs of different players.
+    details: Includes detailed guides for all classes, helping you find the gameplay style that suits you best.
+    image: /images/classes.svg
+    link: /en/classes/
+  - title: Cross-version Compatibility
+    details: Supporting both Classic and Retail versions simultaneously to meet the needs of different players.
+    image: /images/versions.svg
+    link: /en/versions/
 
-footer: For Azeroth! | World of Warcraft Lighthouse © 2024
+classes:
+  - name: Warrior
+    class: warrior
+  - name: Mage
+    class: mage
+  - name: Priest
+    class: priest
+  - name: Rogue
+    class: rogue
+  - name: Hunter
+    class: hunter
+  - name: Druid
+    class: druid
+  - name: Warlock
+    class: warlock
+  - name: Paladin
+    class: paladin
+  - name: Death Knight
+    class: deathknight
+
+footer: 
+  title: 魔兽世界World of Warcraft Lighthouse灯塔
+  rights: For Azeroth! | World of Warcraft Lighthouse © 2024
 ---
 
-## Welcome to World of Warcraft Lighthouse
+<style>
+.vp-theme-container .vp-home {
+  margin: 0 0;
+  max-width: 100%;
+  padding: var(--navbar-height) 0 0;
+}
+.vp-theme-container .vp-home > .vp-hero {
+  display: none;
+}
+.vp-theme-container .vp-home > .vp-features {
+  display: none;
+}
+</style>
 
-Here you will find:
-
-- **Dungeon Guides** - Detailed strategies from 5-man dungeons to raid encounters
-- **Class Guides** - Talent builds, skill rotations, and gear recommendations for all classes
-- **Quest Walkthroughs** - Complete guides for important quest chains and achievements
-- **Profession Guides** - Maximizing benefits from gathering and crafting professions
-- **PVP Strategies** - Advanced tactics for arenas and battlegrounds
-- **Mount & Pet Collections** - Methods to obtain rare mounts and pets
-
-Whether you're a newcomer just stepping into Azeroth or a veteran seeking breakthroughs, this will be your reliable companion.
-
-**May the Light be with you!**
+<HomePage />
