@@ -42,6 +42,15 @@ export default defineUserConfig({
             link: '/get-started/'  // 确保以斜杠结尾
           },
           {
+            text: '节日活动',
+            children: [
+              { 
+                text: '感恩节', 
+                link: '/tasks/感恩节/感恩节' 
+              }
+            ]
+          },
+          {
             text: '职业任务',
             children: [
               { 
